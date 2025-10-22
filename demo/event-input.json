@@ -1,0 +1,9 @@
+{
+  "Entries": [
+    {
+      "Source": "aws.securityhub",
+      "DetailType": "Security Hub Findings - Imported",
+      "Detail": "{\"alert_id\":\"SEC-001\",\"type\":\"MALWARE_DETECTED\",\"source_ip\":\"192.168.1.100\",\"indicators\":{\"file_hash\":\"d41d8cd98f00b204e9800998ecf8427e\",\"domain\":\"malicious-site.com\"},\"timestamp\":\"2025-10-20T10:00:00Z\"}"
+    }
+  ]
+}
