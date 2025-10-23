@@ -322,16 +322,6 @@ Monthly cost (with low usage):
 
 ---
 
-## 📹 Demo
-
-Watch the [demo video](#) for complete walkthrough showing:
-- Low severity alert (auto-execute)
-- High severity alert (approval flow)
-- CloudWatch logs
-- DynamoDB state
-
----
-
 ## 🤝 Contributing
 
 Contributions welcome! Areas for enhancement:
@@ -343,23 +333,15 @@ Contributions welcome! Areas for enhancement:
 
 ---
 
-## 📄 License
-
-MIT License - Feel free to use for commercial projects
-
----
-
 ## 👤 Author
 
 Built for AWS Hackathon 2025
 
 ## 🔗 Links
 
-- **GitHub**: [Repository URL]
-- **Demo Video**: [YouTube Link]
-- **Landing Page**: [GitHub Pages Link]
-- **AWS CDK Docs**: [https://docs.aws.amazon.com/cdk](https://docs.aws.amazon.com/cdk)
-
+- **Demo Video**: https://youtu.be/feveq8bj9Ko
+- **Landing Page**: https://v0-spline-component-integration.vercel.app/
+  
 ---
 
 ## ✅ Status
