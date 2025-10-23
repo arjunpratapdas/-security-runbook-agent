@@ -353,17 +353,6 @@ MIT License - Feel free to use for commercial projects
 
 Built for AWS Hackathon 2025
 
----
-
-## 📞 Support
-
-For issues or questions:
-1. Check [FAQ](#)
-2. Review CloudWatch logs
-3. Open GitHub issue with details
-
----
-
 ## 🔗 Links
 
 - **GitHub**: [Repository URL]
